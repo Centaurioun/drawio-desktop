@@ -35,13 +35,13 @@
     "electron-log": "^4.4.8",
     "electron-progressbar": "^2.1.0",
     "electron-store": "^8.1.0",
-    "electron-updater": "^6.1.1",
+    "electron-updater": "^6.3.0",
     "pdf-lib": "^1.17.1"
   },
   "devDependencies": {
     "@electron/notarize": "^2.1.0",
     "dotenv": "^16.3.1",
-    "electron": "^25.3.1",
+    "electron": "^35.7.5",
     "electron-builder": "^24.5.2",
     "sumchecker": "^3.0.1"
   }
